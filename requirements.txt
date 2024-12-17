@@ -1,0 +1,10 @@
+matplotlib==3.7.1
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.11.1
+tqdm==4.65.0
+scikit-learn-intelex==2024.4.0
+torch==2.5.1+cpu
+torchaudio==2.5.1+cpu
+torchvision==0.20.1+cpu
+pandas==2.2.3
